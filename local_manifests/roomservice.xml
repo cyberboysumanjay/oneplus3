@@ -1,4 +1,4 @@
-#This is roomservice.xml file for cm14.1 based roms
+#This is roomservice.xml file for lineage14.1 based roms
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="lineageos/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-14.1" />
